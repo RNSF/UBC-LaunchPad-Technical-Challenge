@@ -2,7 +2,7 @@
 
 === PROBLEM ===
 
-iOS
+iOS: 
 You're fed up with all the rain this winter, and you decide to write an app that alerts you when it is about to rain. You know that you could just check the weather, but it would be great if the app reminded you ahead of time. How would you build such an app? What are the biggest challenges you foresee when making this rain alert app? 
 
 ----------------------------------------------------
